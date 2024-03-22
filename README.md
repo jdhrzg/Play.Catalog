@@ -1,9 +1,10 @@
-#.Net Microservices Learning (ASP.Net WebAPI, .Net 5, Docker, Git, C#, VS Code)
+# FreeCodeCamp .Net Microservices Video 
+New learnings: Microservice Architecture, ASP.Net WebAPI, .Net 5, Docker, Git, VS Code
 
-This repo contains all of the code I've written while following along with this video:<br>
+## This repo contains all of the code I've written while following along with this video:
 https://youtu.be/CqCDOosvZIk?si=0WRGwK8LsWRUq6zR
 
-# Why?
+## Why?
 - It's high time to DO something outside of work.  I read a lot, but doing is the best way to learn and make things stick.
 - I've worked with ASP.NET WebApi for many years at my current employer, but I have never spun an instance myself from zero.
 - I haven't worked in .Net (Core), just .Net Framework 4.7.x and older.
@@ -11,7 +12,7 @@ https://youtu.be/CqCDOosvZIk?si=0WRGwK8LsWRUq6zR
 - I've also read about Docker containers, but want to dive into that more too.
 - Same on Git, know a bit about it but want to get my hands dirty.
 
-# Thoughts and questions to dig deeper into
+## Thoughts and questions to dig deeper into
 - [ ] Docker - how does it work, best uses for it, etc.
 - [ ] Learn more about HyperV
 - [ ] What if you want to query from 2+ microservice DBs (They usually live seperately, so then what)?
@@ -22,7 +23,6 @@ https://youtu.be/CqCDOosvZIk?si=0WRGwK8LsWRUq6zR
 - [x] What's up with ActionResult<> and CreatedAtAction?  Why use those?  We don't at work.
       - (https://learn.microsoft.com/en-us/aspnet/core/web-api/action-return-types?view=aspnetcore-8.0)
       - (https://stackoverflow.com/questions/53262052/why-should-i-return-actionresult-instead-of-object)
-
 
 # Notes and _thoughts_ 
 I don't claim to own any of this (except my _thoughts_). 
